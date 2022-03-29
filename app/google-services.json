@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189016778765",
+    "project_id": "films-c0c23",
+    "storage_bucket": "films-c0c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189016778765:android:e1340586a8788275f10d44",
+        "android_client_info": {
+          "package_name": "com.rorono.films"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189016778765-i5r559610njjieliguqjkupqd5obou0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTXO04dww8YA5ruOHpMbZHNehraxncsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189016778765-i5r559610njjieliguqjkupqd5obou0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

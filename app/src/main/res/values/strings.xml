@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="already_registered_login_me">Already registered Login Me!</string>
+    <string name="login">Login</string>
+</resources>
